@@ -1,0 +1,11 @@
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\bin\Debug\TestDB1.exe.config
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\bin\Debug\TestDB1.exe
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\bin\Debug\TestDB1.pdb
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\obj\Debug\TestDB1.csprojAssemblyReference.cache
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\obj\Debug\TestDB1.csproj.CoreCompileInputs.cache
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\obj\Debug\TestDB1.exe
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\obj\Debug\TestDB1.pdb
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\bin\Debug\NLog.config
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\bin\Debug\NLog.dll
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\bin\Debug\NLog.xml
+C:\Users\dev02\Source\Repos\TestDB1\TestDB1\obj\Debug\TestDB1.csproj.CopyComplete
